@@ -18,7 +18,7 @@ Features of Inventory Management System:
 
 7.Before purchasing the product we can check whether product is available or out of stock by using quantity of product.
 
-8.We can upadate quantity of product in product data storage.
+8.We can update quantity of product in product data storage.
 
 9.We can store the information about product which are sold.
 
