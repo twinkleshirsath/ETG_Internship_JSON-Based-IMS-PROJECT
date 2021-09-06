@@ -4,6 +4,7 @@ The Module used for this project is JSON.
 JSON methods used:1.json.dumps()  2.json.loads()
 
 Features of Inventory Management System:
+
 1.We can have different types of products.
 2.We can detailed information about product like name,price,quantity,expiry date and manufacturing brand.
 3.We can see menu card of products available.
